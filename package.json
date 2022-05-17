@@ -1,12 +1,14 @@
 {
   "name": "21-days",
   "version": "1.0.0",
-  "description": "",
+  "description": "21 days learn something",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "21days"
+  ],
+  "author": "samhou1988<samhou1988@gmail.com>",
   "license": "ISC"
 }
